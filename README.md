@@ -58,8 +58,9 @@ Me interesa seguir creciendo como desarrollador **backend / fullstack**, aportan
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfermg01&show_icons=true&theme=default&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfermg01
+&layout=compact&theme=default" />
 </p>
 
 ---
