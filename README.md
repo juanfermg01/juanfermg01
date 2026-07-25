@@ -57,19 +57,16 @@ Me interesa seguir creciendo como desarrollador **backend / fullstack**, aportan
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfermg01&show_icons=true&theme=default&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfermg01&layout=compact&theme=default" />
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanfermg01&show_icons=true&theme=default&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanfermg01&layout=compact&theme=default" /> </p>
 
 ---
 
 ## 📫 Contáctame
 
 <p align="left">
-  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="juanfermg01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/juanfermg01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
