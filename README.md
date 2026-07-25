@@ -1,44 +1,77 @@
-# Perfil Profesional
+.<h1 align="center">¡Hola! 👋 Soy Juan Fernando Marín Gómez</h1>
+<h3 align="center">Técnico en Programación de Software</h3>
 
-## Resumen Profesional
-Técnico en instalaciones eléctricas industriales con una sólida trayectoria en roles operativos, técnicos y de supervisión, demostrando gran adaptabilidad, disciplina y capacidad de resolución de problemas en entornos industriales y comerciales. Actualmente en transición hacia el sector tecnológico, con un fuerte interés en el Ciclo de Vida del Desarrollo de Software (SDLC), metodologías de desarrollo y la progresión académica hacia la ingeniería. Perfil ideal para roles que requieran una base técnica metódica, atención al detalle y una curva de aprendizaje rápida en tecnología.
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
 
-## Habilidades y Competencias
-- **Área Tecnológica:** Interés y estudio de los fundamentos del Ciclo de Vida del Desarrollo de Software (SDLC) y metodologías de desarrollo.
-- **Área Técnica:** Instalaciones eléctricas industriales, mantenimiento mecánico, operaciones de inyección industrial.
-- **Habilidades Blandas:** Liderazgo y supervisión de equipos (demostrado por ascensos internos), adaptabilidad a múltiples sectores, trabajo bajo presión y resolución de problemas prácticos.
+---
 
-## Experiencia Laboral
+## 👨‍💻 Sobre mí
 
-**Auxiliar Productivo** | *Laboratorios Dia*
-*2025*
-- Apoyo en procesos de producción, garantizando la eficiencia y el cumplimiento de los estándares operativos del laboratorio.
+Técnico en Programación de Software con experiencia en el desarrollo de aplicaciones web utilizando **PHP, JavaScript, HTML5, CSS3, Bootstrap y MariaDB**. Con experiencia en la gestión de proyectos ágiles mediante **Taiga**, incluyendo el levantamiento y documentación de **requerimientos funcionales y no funcionales**.
 
-**Auxiliar Eléctrico** | *RV Hermanos*
-*2024 (6 meses)*
-- Soporte en la instalación, mantenimiento y revisión de sistemas eléctricos industriales.
+Me interesa seguir creciendo como desarrollador **backend / fullstack**, aportando soluciones eficientes, código limpio y buenas prácticas de gestión de proyectos.
 
-**Ayudante Mecánico** | *Taller de Montallantas*
-*2021 – 2023*
-- Asistencia en labores de mantenimiento preventivo y correctivo, aportando en la inspección y reparación.
+---
 
-**Supervisor de Área** | *Distribución de Publicidad*
-*2018 – 2020*
-- Promovido a Supervisor tras destacar inicialmente en el rol de repartidor.
-- Coordinación de rutas, gestión de personal en terreno, seguimiento de indicadores y control de calidad en la operación.
+## 🛠️ Stack Tecnológico
 
-**Ayudante de Hierro** | *Sector Construcción*
-*Hasta 2018*
-- Manejo de estructuras metálicas, interpretación de planos básicos y soporte directo en obras de construcción.
+### Lenguajes y Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
 
-**Inyector de Suelas** | *Empresa de Calzado para Trabajo Pesado*
-*2016*
-- Operación de maquinaria de inyección para la manufactura de calzado industrial, asegurando los estándares de seguridad y calidad.
+### Base de Datos
+<p align="left">
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+</p>
 
-**Auxiliar Eléctrico** | *Electrum*
-*2015 (7 meses)*
-- Apoyo en proyectos de electrificación y mantenimiento de sistemas, marcando el inicio de la trayectoria técnica.
+### Gestión de Proyectos
+<p align="left">
+  <img src="https://img.shields.io/badge/Taiga-2C3E50?style=flat-square&logo=taiga&logoColor=white" />
+  <img src="https://img.shields.io/badge/Requerimientos%20Funcionales-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/Requerimientos%20No%20Funcionales-FF9800?style=flat-square" />
+</p>
 
-## Educación y Proyección Académica
-- **Formación Principal:** Técnico en Instalaciones Eléctricas Industriales.
-- **Proyección de Carrera:** Planificación estructurada para avanzar hacia los niveles de tecnólogo e ingeniero.
+---
+
+## 💼 Áreas de Experiencia
+
+- 🔹 Desarrollo web con **PHP** (backend) y **JavaScript** (frontend/interactividad)
+- 🔹 Maquetación y diseño responsive con **HTML5, CSS3 y Bootstrap**
+- 🔹 Diseño y gestión de bases de datos relacionales en **MariaDB**
+- 🔹 Levantamiento de **requerimientos funcionales y no funcionales**
+- 🔹 Gestión y seguimiento de proyectos ágiles con **Taiga** (historias de usuario, sprints, backlog)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=default&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=default" />
+</p>
+
+---
+
+## 📫 Contáctame
+
+<p align="left">
+  <a href="mailto:tu_correo@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>Juan Fernando Marín Gómez — Técnico en Programación de Software</i></p>
